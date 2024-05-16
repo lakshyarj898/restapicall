@@ -1,10 +1,10 @@
-# adv_basics
+#Rest Api Call
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project demonstrates the effectiveness of the app to call api to generate random name , emails etc.
 
 A few resources to get you started if this is your first Flutter project:
 
